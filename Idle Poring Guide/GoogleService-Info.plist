@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>757807299446-1v8a9uhpjma4ur2it4clinektk8gqr9u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.757807299446-1v8a9uhpjma4ur2it4clinektk8gqr9u</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBwX4Xnmde6xec7VYZJt2I6Ltg4anVtWpo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>757807299446</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tommyloh92.Idle-Poring-Guide</string>
+	<key>PROJECT_ID</key>
+	<string>idleporingguide</string>
+	<key>STORAGE_BUCKET</key>
+	<string>idleporingguide.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:757807299446:ios:c33c23d50e948191</string>
+	<key>DATABASE_URL</key>
+	<string>https://idleporingguide.firebaseio.com</string>
+</dict>
+</plist>
